@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Andrew Kim. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Andrew Kim. Aspiring software developer. I grew up on the Makah Reservation and am currently working on transitioning from the seafood industry into tech! I'm looking to establish myself in the industry in the hopes of one day being able to serve as a mentor to others from under-represented backgrounds looking to break into the industry. I pride myself on being a tenacious learner who's never afraid to put in the hours needed to get the job done.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
